@@ -1,5 +1,5 @@
 
-# RideStream: End-to-End Azure Data Engineering Pipeline
+# Realtime Ride Data Engineering Pipeline
 
 An end-to-end **cloud-based data engineering pipeline** built on **Microsoft Azure** to process real-time and batch ride-streaming data.  
 The pipeline follows the **Medallion Architecture (Bronze → Silver → Gold)** and enables scalable ingestion, transformation, and analytics-ready modeling.
